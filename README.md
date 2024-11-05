@@ -57,9 +57,10 @@ Ce logiciel est un Storage Controller qui fait la jonction entre une batterie, u
 ### Exemple de Démarrage
 
 Pour démarrer le logiciel, exécutez le fichier main.py dans le terminal.
-```
+
 python main.py
 ```
+
 
 ### Exemple de Sortie
 
