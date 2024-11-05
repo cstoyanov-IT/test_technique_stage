@@ -1,4 +1,4 @@
-# Constants pour les états du système
+# Constantes pour les états du système
 OFF = "Off"
 ON = "On"
 

@@ -6,7 +6,7 @@ class Onduleur:
     def __init__(self):
         self.state = OFF
         self.PMax_kW = 35.0  # Puissance maximale
-        self.P_kW = 3.0  # Set the initial power to 3.0 kW
+        self.P_kW = 3.0  # Défini la valeur initiale de 3.0 Kw
 
     def start(self):
         # Démarre l'onduleur si les conditions sont OK

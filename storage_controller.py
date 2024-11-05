@@ -64,7 +64,7 @@ class StorageController:
             return False
 
     def _stop_sequence(self):
-        # Séquence d'arrêt sécurisée
+        # Séquence d'arrêt
         try:
             print("Arrêt du système...")
             self.onduleur.stop()
